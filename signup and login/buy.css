@@ -1,0 +1,29 @@
+.container1{
+	
+	
+	padding:10 0 0 0px;
+	height:430px;
+	width:200px;
+	background-color:white;
+	display:inline-block;
+
+	margin-left:60px;
+	margin-top:4px;
+
+	
+	
+}
+.text {
+	font-family: "Sofia", sans-serif;
+	color:#13274F;
+	font-size:15px;
+	
+	
+}
+.text span:hover{
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 300,
+  'GRAD' 0,
+  'opsz' 48
+}
