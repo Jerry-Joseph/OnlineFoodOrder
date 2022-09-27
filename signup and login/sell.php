@@ -39,9 +39,9 @@
   <h1>Add your Product</h1>
   
   <p>Product Title:</p>
-  <input type="text" class="inputbox" name="title" placeholder="Title" required />
+  <input type="text" class="inputbox" name="title" placeholder="Product Title" required />
   <p>Product Description:</p>
-  <input type="text" class="inputbox" name="description" required />
+  <input type="text" class="inputbox" name="description" placeholder="Product Description"required />
   <p>Product Image</p>
   <input type="file" class="inputbox" name="file"  />
 
